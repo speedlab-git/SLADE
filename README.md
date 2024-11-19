@@ -1,5 +1,5 @@
 
-<h1 align="center">SLADE: Shielding againt Dual Exploits</h1>
+<h1 align="center">SLADE: Shielding against Dual Exploits in Large Vision-Language Models</h1>
 
 
 
