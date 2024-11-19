@@ -1,0 +1,2 @@
+Model: C:/CodesSpring24/RobustVLM/scienceqa_eval/answers/LLAVA_simclip
+Total: 4241, Correct: 2224, Accuracy: 52.44%, IMG-Accuracy: 61.97%

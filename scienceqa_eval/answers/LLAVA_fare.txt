@@ -1,0 +1,2 @@
+Model: C:/CodesSpring24/RobustVLM/scienceqa_eval/answers/LLAVA_fare
+Total: 4241, Correct: 2230, Accuracy: 52.58%, IMG-Accuracy: 62.27%

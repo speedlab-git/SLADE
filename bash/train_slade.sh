@@ -1,0 +1,26 @@
+python -m train.adv_training_slade \
+--clip_model_name ViT-L-14 \
+--pretrained openai \
+--dataset imagenet \
+--imagenet_root /c/CodesSpring24/Data/imagenet-object-localization-challenge/ILSVRC/Data/CLS-LOC \
+--template std \
+--output_normalize False \
+--steps 40000 \
+--warmup 1400 \
+--batch_size 8 \
+--patch_size 32 \
+--lambda 0.6 \
+--opt adamw \
+--lr 1e-5 \
+--wd 1e-4 \
+--attack pgd \
+--inner_loss l2 \
+--norm linf \
+--eps 2 \
+--iterations_adv 10 \
+--stepsize_adv 1 \
+--wandb False \
+--output_dir /c/CodesSpring24/SLADE/cocoadv \
+--experiment_name SLADE \
+--log_freq 10 \
+

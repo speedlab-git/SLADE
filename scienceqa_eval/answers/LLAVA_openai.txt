@@ -1,0 +1,2 @@
+Model: C:/CodesSpring24/RobustVLM/scienceqa_eval/answers/LLAVA_openai
+Total: 4241, Correct: 2278, Accuracy: 53.71%, IMG-Accuracy: 64.65%
