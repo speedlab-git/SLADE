@@ -1,5 +1,5 @@
 
-<h1 align="center">SLADE: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models</h1>
+<h1 align="center">SLADE: Shielding againt Dual Exploits</h1>
 
 
 
