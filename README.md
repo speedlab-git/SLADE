@@ -11,7 +11,7 @@
 
 ## Contents
 
-- [Env Installation](#installation)
+- [Installation](#installation)
 - [Datasets](#dataset)
 - [Adversarial Training SLADE](#adversarial-training)
 - [Adversarially fine-tuned Encoders](#models)
