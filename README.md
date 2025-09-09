@@ -4,7 +4,7 @@
 
 
 ## News
-- **Accepted in CVPR2025**
+- **Accepted at CVPR2025**
 
 
 
