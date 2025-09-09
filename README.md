@@ -3,6 +3,8 @@
 
 
 
+## News
+- **Accepted in CVPR2025**
 
 
 
