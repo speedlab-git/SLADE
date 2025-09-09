@@ -1,7 +1,9 @@
 
 <h1 align="center">SLADE: Shielding against Dual Exploits in Large Vision-Language Models</h1>
 
-
+<p align="center">
+  <b>Md Zarif Hossain</b> · <b>Ahmed Imteaj</b>
+</p>
 
 ## News
 - **Accepted at CVPR2025**
