@@ -102,19 +102,6 @@ model.vision_encoder.load_state_dict(checkpoint)
 - If you are facing any issues with the GPU running out of memory, please reduce the `batch size`
 
 
-## Models
-
-| Model Name           | Type   | Source                                                 | Download Link                                                                                               |
-| -------------------- | ------ | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| CLIP                 | Clean  | [OpenAI](https://arxiv.org/pdf/2103.00020)                   | [Load CLIP model](https://huggingface.co/docs/transformers/en/model_doc/clip#transformers.CLIPModel)        |
-| SLADE<sup>4</sup> | Robust | Our Method                                                   | [Download SLADE<sup>4</sup>](https://huggingface.co/mdzhossain/SLADE/)        |
-| SLADE<sup>2</sup> | Robust | Our Method                                                   | [Download SLADE<sup>2</sup>](https://huggingface.co/mdzhossain/SLADE/)        |
-| FARE<sup>4</sup>     | Robust | [Schlarmann et al. (2024)](https://arxiv.org/pdf/2402.12336) | [Download FARE<sup>4</sup>](https://huggingface.co/collections/chs20/robust-clip-65d913e552eca001fdc41978)  |
-| FARE<sup>2</sup>     | Robust | [Schlarmann et al. (2024)](https://arxiv.org/pdf/2402.12336) | [Download FARE<sup>2</sup>](https://huggingface.co/collections/chs20/robust-clip-65d913e552eca001fdc41978)  |
-| TeCoA<sup>4</sup>    | Robust | [Mao et al. (2023)](https://arxiv.org/abs/2212.07016)        | [Download TeCoA<sup>4</sup>](https://huggingface.co/collections/chs20/robust-clip-65d913e552eca001fdc41978) |
-| TeCoA<sup>2</sup>    | Robust | [Mao et al. (2023)](https://arxiv.org/abs/2212.07016)        | [Download TeCoA<sup>2</sup>](https://huggingface.co/collections/chs20/robust-clip-65d913e552eca001fdc41978) |
-
-
 
 ## Evaluation
 
