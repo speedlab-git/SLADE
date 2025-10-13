@@ -6,9 +6,9 @@
 </p>
 
 
-<p>
-  This repository contains official pytorch implementation of our paper [SLADE: Shielding against Dual Exploits in Large Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Hossain_SLADE_Shielding_against_Dual_Exploits_in_Large_Vision-Language_Models_CVPR_2025_paper.pdf)
-</p>
+This repository contains the official **PyTorch** implementation of our CVPR 2025 paper:  
+[SLADE: Shielding against Dual Exploits in Large Vision–Language Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Hossain_SLADE_Shielding_against_Dual_Exploits_in_Large_Vision-Language_Models_CVPR_2025_paper.pdf)
+
 
 ## News
 - **Accepted at CVPR2025**
