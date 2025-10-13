@@ -5,6 +5,11 @@
   <b>Md Zarif Hossain</b> · <b>Ahmed Imteaj</b>
 </p>
 
+
+<p>
+  This repository contains official pytorch implementation of our paper [SLADE: Shielding against Dual Exploits in Large Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Hossain_SLADE_Shielding_against_Dual_Exploits_in_Large_Vision-Language_Models_CVPR_2025_paper.pdf)
+</p>
+
 ## News
 - **Accepted at CVPR2025**
 
